@@ -1,0 +1,8 @@
+.principal{
+	background-color: red;
+	text-align: center;
+	padding: 3rem;
+}
+.principal__title{
+	color: white;
+}
